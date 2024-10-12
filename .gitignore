@@ -8,6 +8,9 @@ dist/
 nbdist/
 .nb-gradle/
 
+### MySQL###
+mysql/data/
+
 ### Java ###
 # Compiled class file
 *.class
